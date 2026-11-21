@@ -24,10 +24,10 @@ I'm currently deepening my hands-on skills across **AWS, Azure, and Google Cloud
 ### Roadmap
 
 ```text
-2025            Foundations — Linux, networking, Git, shell scripting
-2026 H1         AWS Cloud Practitioner  →  Solutions Architect Associate
-2026 H2         Terraform + Kubernetes, applied in personal infra projects
-2027            Targeting first Cloud / DevOps engineering role in Europe
+2026-December        Foundations — Linux, networking, Git, shell scripting with real world projects 
+2027-January          Cloud concepts 
+2027-February         Terraform + Kubernetes, applied in personal infra projects
+2027-March            Targeting first Cloud / DevOps engineering role in Europe
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B263B,100:415A77&height=3"/>
