@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <!-- visualize commit -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/cloud-with-nikhil/cloud-with-nikhil/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/cloud-with-nikhil/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
