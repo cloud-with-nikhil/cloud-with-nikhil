@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![cloud-with-nikhil GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-with-nikhil)](https://github.com/cloud-with-nikhil/github-readme-stats)
-
 <!--
 **cloud-with-nikhil/cloud-with-nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nikhil;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
