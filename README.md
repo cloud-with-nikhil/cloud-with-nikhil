@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:415A77&height=170&section=header&text=Nikhil Pal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer&descAlignY=58&descSize=19&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:415A77&height=170&section=header&text=Nikhil%20Pal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer&descAlignY=58&descSize=19&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=415A77&center=true&vCenter=true&width=640&lines=Cloud+Infrastructure+%7C+Automation+%7C+DevOps;Building+on+AWS%2C+Azure+%26+Google+Cloud;Studying+for+AWS+Solutions+Architect+Associate"/>
 
