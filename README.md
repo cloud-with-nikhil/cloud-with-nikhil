@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![cloud-with-nikhil GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![cloud-with-nikhil GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-with-nikhil)](https://github.com/cloud-with-nikhil/github-readme-stats)
 
 <!--
 **cloud-with-nikhil/cloud-with-nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
