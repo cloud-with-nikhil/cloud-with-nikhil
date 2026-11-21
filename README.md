@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     </h1>
 </div>
 
+<!-- Introductin -->
 <div align="center">
-    <p>
-        <img ="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
-    </p>
+    <h2>🚀 About Me</h2>
+    <p>I'm a aspiring Cloud Engineer Exploring in Linux, Cloud Engineering . I enjoy automating tasks, deploying practice applications and exploring open-source tools.</p>
 </div>
